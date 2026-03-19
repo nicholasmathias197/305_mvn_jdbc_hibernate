@@ -12,7 +12,7 @@ public class ConnectionManager {
 
     private static final String URL = "jdbc:mysql://localhost:3306/classicmodels";
     private static final String USER = "root";
-    private static final String PASSWORD = "password";
+    private static final String PASSWORD = "Postgres1";
 
     /**
      * Returns a new connection to the classicmodels database.
