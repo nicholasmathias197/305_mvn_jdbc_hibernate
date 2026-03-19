@@ -11,7 +11,7 @@ public class Update_preparedSt_Example{
         ResultSet rs = null;
         String dburl = "jdbc:mysql://localhost:3306/classicmodels";
         String user= "root";
-        String password = "password";
+        String password = "Postgres1";
         try {
             con = DriverManager.getConnection(dburl, user, password);
             System.out.println("Connection established successfully!");
